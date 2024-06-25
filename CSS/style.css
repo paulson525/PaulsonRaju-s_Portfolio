@@ -729,6 +729,85 @@ form{
     }
 }
 
+@media (max-width: 365px) {
+    
+    #navbar {
+        gap: 15%;
+    }
+
+    #close{
+        margin-left: 18rem;
+    }
+
+    #heroprofile {
+        padding-left: 20px;
+    }
+
+    #herodetails {
+        padding: 20px;
+    }
+
+    #herodetails h1 {
+        font-size: 24px;
+    }
+
+    #herodetails h2 {
+        font-size: 20px;
+    }
+
+    #about {
+        padding: 1.5rem;
+        padding-top: 6rem;
+        padding-bottom: 3rem;
+    }
+
+    #abtitle h1 {
+        font-size: 18px;
+    }
+
+    #detailsinfo p {
+        font-size: 18px;
+    }
+
+    #buttons1{
+        gap: 20px;
+    }
+
+    #buttons1 .download{
+        margin-right: 0px;
+        font-size: 16px;
+    }
+
+    #buttons1 .hire{
+        font-size: 16px;
+    }
+
+    #projects h1 {
+        font-size: 18px;
+    }
+
+    #pinfo h2{
+        font-size: 19px;
+    }
+
+    #pinfo img{
+        height: 15rem;
+    }
+
+    form {
+        padding: 17px;
+    }
+
+    #input {
+        display: block;
+        margin-bottom: 0px;
+    }
+
+    #input input{
+        margin-bottom: 20px;
+    }
+}
+
 @media (max-width: 350px) {
     #navbar {
         padding: 25px 17px 25px 17px;
